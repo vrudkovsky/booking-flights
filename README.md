@@ -1,4 +1,4 @@
-# booking-flights
+# Booking flights
 ## Main task
 
 #### Create a Java console application for booking flights
