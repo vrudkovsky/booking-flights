@@ -46,3 +46,7 @@ The main menu that the user sees when starting the program should have the follo
  - Create a separate class for logging, and record all user actions in a log file.
  - The first step before showing the main menu is to add user authorization - the user must enter a username and password. If such a user exists, then the main menu is shown, and all work is done on behalf of this user. For example, the My Reservations menu displays information about all the reservations of the current user. One new item is added to the main menu - End Session, which logs out, after which you can enter the login and password of another user.
  - Add flights not only from Kiev, but also between other cities. When searching, look for connecting flights with a waiting time of no more than 12 hours.
+
+## License
+
+Collision is an open-sourced software licensed under the [MIT license](LICENSE.md).
