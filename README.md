@@ -1,12 +1,10 @@
 # Flights booking and reservation
 
-## Main task
-
-#### Create a Java console application for booking flights
+## Java console application for booking a flights
 
 #### Description
 
-Create a console application that, in an endless loop (until you select the Exit command), provides an interface for searching and booking flights.
+Console application that, in an endless loop (until you select the Exit command), provides an interface for searching and booking flights.
 
 #### Main menu of the application 
 
