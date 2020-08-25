@@ -1,4 +1,4 @@
-# Flights booking and reservation
+# Flights' booking and reservation
 
 ## Java console application for booking a flights
 
